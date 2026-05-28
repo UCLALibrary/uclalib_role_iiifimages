@@ -3,6 +3,8 @@ Role Name
 
 A brief description of the role goes here.
 
+***This project has been archived and will no longer be supported or maintained by UCLA Library.**
+
 Requirements
 ------------
 
